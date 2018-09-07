@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.heading-name {
+  font-family: 'Gochi Hand', cursive;
+}
+
+.heading-subtitle {
+  font-family: 'Fira Mono', monospace;
+}
+
+.text-center {
+  text-align: center;
+}
